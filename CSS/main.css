@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css?family=Bitter|Raleway|Material+Icons');
+
+html{
+    background-color:#07CD76;
+}
+
+body{
+    background-color:#07CD76;
+}
+
+h1, h2, h3, h4, label {
+    font-family: Bitter, Times, "Times New Roman", serif;
+    color:#4D08D7;
+}
+
+h5{
+    color:#02B3D7;
+    font-family: Bitter, Times, "Times New Roman", serif;
+}
+
+p, a, button {
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    color:#02B3D7;
+}
+
+.material-icons{
+    font-size:1.8rem;
+}
+
+.navbar-dark{
+background-color:#4E02CD;
+    color:#07CD76;
+}
+
+.btn{
+    background-color:#BF03CD;
+}
+.card{
+    background-color:#4D08D7;
+}
+
+.bg-nav{
+    background-color:#4E02CD;
+    color:#07CD76;
+}
+
+.jumbotron{
+    background-color:#BF03CD;
+}
+
+.footer{
+    background-color:#4E02CD;
+}
+.cardSpacing{
+    margin-top: 1.5rem;
+    margin-bottom:1.5rem;
+}
+
+.formSpacing{
+    margin-top: 1rem;
+    margin-bottom:1rem;
+}
+
+.iconic-social-facebook:hover{
+    fill: #3b5998;
+  stroke: #3b5998;
+}
+
+.iconic-social-twitter:hover{
+    fill: #0084b4;
+  stroke: #0084b4;
+}
+
+.iconic-social-instagram:hover{
+    fill: #e95950;
+  stroke: #e95950;
+}
+
+.iconic-social-linkedin:hover{
+    fill: #007bb6;
+  stroke: #007bb6;
+}
